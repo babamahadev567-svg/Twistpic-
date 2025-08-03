@@ -1,0 +1,2 @@
+console.log("Twistpic app loaded.");
+alert("Welcome to Twistpic!");
